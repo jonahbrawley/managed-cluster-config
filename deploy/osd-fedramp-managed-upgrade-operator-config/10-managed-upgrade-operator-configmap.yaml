@@ -86,4 +86,4 @@ data:
         urls:
           - ${OCM_BASE_URL}/api/clusters_mgmt/v1      
     environment:
-      fedramp: true
+      fedramp: false
